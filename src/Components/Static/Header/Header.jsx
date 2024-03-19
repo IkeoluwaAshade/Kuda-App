@@ -40,11 +40,7 @@ const Header = () => {
             <nav>Help</nav>
           </Link>
 
-          {/* <a href="#">Business</a> */}
-
-          {/* <a href="#">Company</a> */}
-
-          {/* <a href="#">Help</a> */}
+         
 
         </DropdownHold>
 

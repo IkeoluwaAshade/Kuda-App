@@ -18,7 +18,7 @@ const Home = () => {
 
     <Container>
         <Wrapper>
-            <Header />
+            {/* <Header /> */}
             <HeroSection />
             <CardSection />
             <MathSection />

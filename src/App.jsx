@@ -5,12 +5,13 @@ import Business from './Pages/Business/Business'
 import Company from './Pages/Company/Company'
 import Help from './Pages/HelpNav/Help'
 import Personal from './Pages/Personal/Personal'
+import Header from './Components/Static/Header/Header'
 
 
 const App = () => {
   return (
     <BrowserRouter>
-    
+        <Header />
         <Routes>
           <Route path='/' element={<Home /> } />
 
